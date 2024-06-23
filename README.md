@@ -1,6 +1,6 @@
 # Football Odds module
 
-Module này được mình làm theo temple của [Goat bot](https://github.com/ntkhang03/Goat-Bot-V2) nếu các bạn dùng các loại bot khác mà có sử khác nhau thì có thể sửa lại 1 chút để dùng.
+Module này được mình làm theo temple của [Goat bot](https://github.com/ntkhang03/Goat-Bot-V2) nếu các bạn dùng các loại bot khác mà có module temple khác thì có thể sửa lại 1 chút để dùng.
 
 ## Tính năng chính
 
