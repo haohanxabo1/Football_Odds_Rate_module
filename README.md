@@ -11,3 +11,7 @@ Module này được mình làm theo temple của [Goat bot](https://github.com/
 - Mình có sử dụng api của ```https://the-odds-api.com/account/api.html``` , nhưng không có tài khoản trả phí =)) nên nó chỉ được 500 req / 1 month , nếu dùng hết thì các bạn có thể thay ở phần ```const api_key = "<YOUR_API_KEY> ";``` 
 
 - Api Inspired by  [Litbet](https://github.com/L4KK4S)
+## Usage
+![image](https://github.com/haohanxabo1/Football_Odds_Rate_module/assets/153009595/aae67903-1e70-4f81-aa8e-6a8af7b6f99e)
+--------------------------------------
+![image](https://github.com/haohanxabo1/Football_Odds_Rate_module/assets/153009595/a7be8aae-ce80-4f28-81a7-64711f8717f8)
