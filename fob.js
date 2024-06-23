@@ -268,7 +268,6 @@ module.exports = {
 ┕━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 `;
 
-// Sử dụng message.reply để gửi hướng dẫn sử dụng vào channel
 message.reply(discordGuide);
                 return;
             }
